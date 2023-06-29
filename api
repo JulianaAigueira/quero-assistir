@@ -1,0 +1,40 @@
+{
+  "Title": "The Godfather",
+  "Year": "1972",
+  "Rated": "R",
+  "Released": "24 Mar 1972",
+  "Runtime": "175 min",
+  "Genre": "Crime, Drama",
+  "Director": "Francis Ford Coppola",
+  "Writer": "Mario Puzo, Francis Ford Coppola",
+  "Actors": "Marlon Brando, Al Pacino, James Caan",
+  "Plot": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+  "Language": "English, Italian, Latin",
+  "Country": "United States",
+  "Awards": "Won 3 Oscars. 32 wins & 31 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "9.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "97%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "Metascore": "100",
+  "imdbRating": "9.2",
+  "imdbVotes": "1,901,273",
+  "imdbID": "tt0068646",
+  "Type": "movie",
+  "DVD": "11 May 2004",
+  "BoxOffice": "$136,381,073",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
